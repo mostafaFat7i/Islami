@@ -1,0 +1,18 @@
+{
+  "app_title": "آسلامي",
+  "quran_title": "القرآن",
+  "quran_head_title": "اسم السورة",
+  "hadeth_title": "الحديث",
+  "hadeth_head_title": "الأحاديث",
+  "tasbeh_title": "تسبيح",
+  "radio_title": "الأذاعه",
+  "counter_title": "عدد التسبيحات",
+  "settings_title": "الأعدادات",
+  "language_title": "اللغه",
+  "theme_title": "المظهر",
+  "dark_theme_title": "ليلي",
+  "light_theme_title": "نهاري",
+  "no_internet_title": "تاكد من الاتصال بالانترنت",
+  "azkar_title": "الاذكار"
+
+}
